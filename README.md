@@ -4,7 +4,7 @@ Step by step guide on how Henry and Asad built a drone.
 * [Research and Components](https://github.com/hcoyle91/DIY-Drone/blob/main/README.md#researchcomponents)
 * [Testing](https://github.com/hcoyle91/DIY-Drone/blob/main/README.md#testing)
 * [Building](https://github.com/hcoyle91/DIY-Drone/blob/main/README.md#building)
-* [Conclusion]()
+* [Conclusion](https://github.com/hcoyle91/DIY-Drone/blob/main/README.md#final-productsafety)
 
 
 
